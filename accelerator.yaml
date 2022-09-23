@@ -1,8 +1,10 @@
 #thetalentbot accelerators
 accelerator:
   displayName: Simple Accelerator
-  description: Contains just a README
+  description: "This accelerator is the template to be used to create a new microservice for the customer domain.
+                 This accelerator contains all the necessary best practices as mandated by the organization. To get started us tanzu application platform
+                 to download the accelerator and get started with your custom code" 
   iconUrl: https://images.freecreatives.com/wp-content/uploads/2015/05/smiley-559124_640.jpg
   tags:
-  - simple
-  - getting-started
+  - Customer-Domain
+  - webapi
